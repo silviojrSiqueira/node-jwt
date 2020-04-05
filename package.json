@@ -1,0 +1,19 @@
+{
+  "name": "node-jwt",
+  "version": "1.0.0",
+  "description": "API em NODE com autenticador JWT ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silviojrSiqueira/node-jwt.git"
+  },
+  "author": "Silvio Siqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silviojrSiqueira/node-jwt/issues"
+  },
+  "homepage": "https://github.com/silviojrSiqueira/node-jwt#readme"
+}
